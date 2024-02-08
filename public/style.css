@@ -1,6 +1,4 @@
-/* Netflix-inspired CSS */
 
-/* Global styles */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -14,7 +12,6 @@ a {
   text-decoration: none;
 }
 
-/* Header styles */
 header {
   background-color: #141414;
   color: #fff;
@@ -42,12 +39,10 @@ nav ul li a {
   text-decoration: none;
 }
 
-/* Main content styles */
 main {
   padding: 20px;
 }
 
-/* Footer styles */
 footer {
   background-color: #141414;
   color: #fff;
@@ -58,7 +53,6 @@ footer {
   width: 100%;
 }
 
-/* Button styles */
 .button {
   background-color: #e50914;
   color: #fff;
@@ -71,8 +65,6 @@ footer {
 .button:hover {
   background-color: #ff0000;
 }
-
-/* Forms */
 form {
   margin-top: 20px;
 }
@@ -101,7 +93,6 @@ input[type="submit"]:hover {
   background-color: #ff0000;
 }
 
-/* Post styles */
 .post {
   background-color: #333;
   padding: 20px;

@@ -11,7 +11,7 @@ const userController = {
     }
   },
 
-  // Implement other controller methods as needed
+
 };
 
 module.exports = userController;

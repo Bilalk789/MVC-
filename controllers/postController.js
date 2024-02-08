@@ -24,7 +24,6 @@ const postController = {
     }
   },
 
-  // Implement other controller methods as needed
 };
 
 module.exports = postController;

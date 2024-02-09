@@ -2,19 +2,19 @@
   "development": {
     "username": "root",
     "password": "yourpassword",
-    "database": "yourdatabase",
+    "database": "mvc_db",
     "host": "localhost",
-    "dialect": "mysql"
+    "dialect": "mysql2"
   },
   "test": {
     "username": "root",
     "password": "yourpassword",
-    "database": "yourdatabase",
+    "database": "mvc _db",
     "host": "localhost",
-    "dialect": "mysql"
+    "dialect": "mysql2"
   },
   "production": {
     "use_env_variable": "JAWSDB_URL",
-    "dialect": "mysql"
+    "dialect": "mysql2"
   }
 }
